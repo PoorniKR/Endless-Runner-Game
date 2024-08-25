@@ -16,7 +16,7 @@ This is a basic endless runner game developed in Unity for mobile devices. The p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/PoorniKR/BasicEndlessRunner.git
+   git clone https://github.com/PoorniKR/Endless-Runner-Game.git
    ```
 2. **Open in Unity**:
    - Open Unity Hub, select "Open Project," and choose the cloned folder.
